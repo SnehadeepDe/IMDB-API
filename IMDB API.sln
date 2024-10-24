@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IMDB API", "IMDB API\IMDB API.csproj", "{0208E965-7A7A-43DA-B6B2-AA46BB716653}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IMDB_API.test", "Test\IMDB_API.test.csproj", "{DEFA9488-9D12-48DA-A803-211AD900EB05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0208E965-7A7A-43DA-B6B2-AA46BB716653}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0208E965-7A7A-43DA-B6B2-AA46BB716653}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0208E965-7A7A-43DA-B6B2-AA46BB716653}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0208E965-7A7A-43DA-B6B2-AA46BB716653}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEFA9488-9D12-48DA-A803-211AD900EB05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEFA9488-9D12-48DA-A803-211AD900EB05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEFA9488-9D12-48DA-A803-211AD900EB05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEFA9488-9D12-48DA-A803-211AD900EB05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6989581A-55DF-4DC1-B71F-0AF257F63E76}
+	EndGlobalSection
+EndGlobal
